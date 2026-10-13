@@ -1,6 +1,14 @@
 # 💫 About Me:
-Data Analysis using Python, SQL, Excel, Power BI, Tableau, and Looker<br>Data-driven projects with Google and open-source communities<br>Advanced Machine Learning, Web Scraping, and German 🇩🇪<br>Turning raw, meaningless data into valuable and actionable insights<br>I practice MMA and I'm a big fan of video games!
 
+* 🔭 **I'm currently working on:** Data Analysis using Python, SQL, Excel, Power BI, Tableau, and Looker  
+  *(Focusing on data cleaning, querying, and interactive visualization)*
+* 👯 **I'm looking to collaborate on:** Data-driven projects with Google and open-source communities  
+  *(Building open-source tools and data solutions)*
+* 🌱 **I'm currently learning:** Advanced Machine Learning, Web Scraping, and German 🇩🇪  
+  *(Expanding technical scope and professional opportunities)*
+* 💬 **Ask me about:** Turning raw, meaningless data into valuable and actionable insights  
+  *(How data solves real-world business problems)*
+* ⚡ **Fun fact:** I practice MMA and I'm a big fan of video games!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-gamal-eldawy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohmedeldawy0@gmail.com) 
